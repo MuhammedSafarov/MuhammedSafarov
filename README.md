@@ -5,7 +5,7 @@ Junior Full Stack Developer
 ---------------------------
 
 *   🌍  I'm based in Baku
-*   ✉️  You can contact me at [muhammed.safarov@gmail.com](mailto:muhammed.safarov@gmail.com)
+*   ✉️  You can contact me at [muxammed.safarov@gmail.com](mailto:muhammed.safarov@gmail.com)
 *   🧠  I'm learning JavaScript<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
