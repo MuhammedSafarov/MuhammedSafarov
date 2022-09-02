@@ -1,7 +1,7 @@
 Hi 👋 My name is Muhammed
 =========================
 
-Junior Full Stack Developer
+Junior Frontend Developer
 ---------------------------
 
 *   🌍  I'm based in Baku
