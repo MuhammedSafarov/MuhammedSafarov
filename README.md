@@ -6,7 +6,8 @@ Junior Frontend Developer
 
 *   🌍  I live in Baku,Azerbaijan
 *   ✉️  You can contact me at [muxammed.safarov@gmail.com](mailto:muhammed.safarov@gmail.com)
-*   🧠  I'm learning JavaScript (React)<p align="left">
+*   🧠 As a Junior Frontend Developer, I am excited to collaborate with like- minded individuals and teams to build innovative and impactful web projects. I am eager to learn from experienced developers, contribute to open-source projects and grow in my coding journey.
+    <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
